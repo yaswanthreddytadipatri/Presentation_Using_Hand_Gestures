@@ -2,6 +2,20 @@
 
 Control PowerPoint presentations with hand gestures using the camera. This project leverages the capabilities of the `os`, `cv2`, `cvzone`, and `numpy` libraries to enable intuitive control of PowerPoint slides.
 
+## Overview
+
+This project offers a unique way to control PowerPoint presentations by harnessing the power of hand gestures captured through a camera. The integration of the `os`, `cv2` (OpenCV), `cvzone`, and `numpy` libraries provides an innovative and interactive method for navigating through slides seamlessly.
+
+## Features
+
+- **Gesture-Based Control**: Utilize hand gestures to effortlessly navigate through slides during a PowerPoint presentation.
+  
+- **Camera Integration**: Leverage the computer's camera to detect and interpret hand gestures, adding a novel dimension to the presentation experience.
+
+- **OpenCV and cvzone**: Harness the capabilities of OpenCV and cvzone libraries for efficient computer vision-based gesture recognition.
+
+
+
 ## Installation
 
 1. Clone the repository:
