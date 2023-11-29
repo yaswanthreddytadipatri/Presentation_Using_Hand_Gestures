@@ -34,7 +34,7 @@ while True:
     imgCurrent = cv2.imread(pathFullImage)
 
     hands,img = detector.findHands(img,flipType=False)
-    cv2.line(img,(0,gestureThreshold),(width,gestureThreshold),(0,255,0),10)
+    cv2.line(img,(0,gestureThreshold),(width,gestureThreshold),(30,144,255),1)
 
     if hands and buttonPress is False:
         hand = hands[0]

@@ -15,6 +15,7 @@ This project offers a unique way to control PowerPoint presentations by harnessi
 - **OpenCV and cvzone**: Harness the capabilities of OpenCV and cvzone libraries for efficient computer vision-based gesture recognition.
 
 ## Demo
+https://github.com/yaswanthreddytadipatri/Presentation_Using_Hand_Gestures/assets/69782631/2dd42a11-ac94-401f-8e5a-ef2dec72e50c
 
 
 
@@ -54,4 +55,3 @@ This project offers a unique way to control PowerPoint presentations by harnessi
 - `cv2` (OpenCV)
 - `cvzone`
 - `numpy`
-
