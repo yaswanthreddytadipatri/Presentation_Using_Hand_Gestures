@@ -14,6 +14,8 @@ This project offers a unique way to control PowerPoint presentations by harnessi
 
 - **OpenCV and cvzone**: Harness the capabilities of OpenCV and cvzone libraries for efficient computer vision-based gesture recognition.
 
+## Demo
+
 
 
 ## Installation
